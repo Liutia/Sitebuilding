@@ -327,7 +327,7 @@ footer.container .region.region-footer .footer_custom {
 }
 
 #block-about-custom {
-  margin-top: 300px;
+  margin-top: 150px;
 }
 #block-about-custom div {
   font-size: 18px;
@@ -481,7 +481,7 @@ iframe {
 }
 
 .path-frontpage .block-title::before {
-  content: ".";
+  content: "";
   display: flex;
   align-items: center;
   font-size: 2px;
@@ -491,7 +491,7 @@ iframe {
   background-color: #dddcdd;
 }
 .path-frontpage .block-title::after {
-  content: ".";
+  content: "";
   display: flex;
   align-items: center;
   font-size: 2px;

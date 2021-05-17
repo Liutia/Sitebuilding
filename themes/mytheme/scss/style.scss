@@ -403,7 +403,7 @@ footer.container{
 }
 
 #block-about-custom{
-    margin-top: 300px;
+    margin-top: 150px;
     div{
         font-size: 18px;
         *:nth-child(1){
@@ -553,7 +553,7 @@ iframe{
 }
 .path-frontpage{
     .block-title::before{
-        content: ".";
+        content: "";
         display: flex;
         align-items: center;
         font-size: 2px;
@@ -563,7 +563,7 @@ iframe{
         background-color: #dddcdd;
     }
     .block-title::after{
-        content: ".";
+        content: "";
         display: flex;
         align-items: center;
         font-size: 2px;
